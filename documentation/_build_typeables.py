@@ -9,7 +9,7 @@ categories = [
     ("Digits", ["%d" % i for i in range(10)]),
     ("Navigation keys", "left right up down pgup pgdown home end".split()),
     ("Editing keys", "space enter backspace del insert".split()),
-    ("Symbols", "ampersand apostrophe asterisk at backslash backtick bar caret colon comma dollar dot dquote equal escape exclamation hash hyphen minus percent plus question slash squote tilde underscore".split()),
+    ("Symbols", "ampersand apostrophe asterisk at backslash backtick bar caret colon comma dollar dot dquote equal escape exclamation hash hyphen minus percent plus question semicolon slash squote tilde underscore".split()),
     ("Function keys", ["f%d" % i for i in range(1, 25)]),
     ("Modifiers", "alt ctrl shift".split()),
     ("Brackets", "langle lbrace lbracket lparen rangle rbrace rbracket rparen".split()),
